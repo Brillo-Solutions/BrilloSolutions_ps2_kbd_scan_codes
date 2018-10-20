@@ -2,7 +2,7 @@
   Email ID: brillosolutions@gmail.com
   Version: 1.0.0
   Date: October 20, 2018
-  Outputs: Scan and break codes on serial terminal. */
+  Outputs: Scan and break codes on serial terminal.*/
 
 #define clkPin 3
 #define dataPin 4
